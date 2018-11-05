@@ -5,7 +5,7 @@ Crimes in Chicago evaluation
 [Diagrams](https://gitlab.engr.illinois.edu/cs398-sp18-final-project/newbee/tree/master/Data_report_diag)
 Above link directs to the folder of visualization graphs that we created earlier.
 
-# Group Members:
+Group Members:
 Woody Gu, Max Qian, Jeremy Chen, Peanut Xie
 
 ## Packages
