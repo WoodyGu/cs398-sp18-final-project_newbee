@@ -51,3 +51,5 @@ we have to implement it locally.
 | createSS.py | get sreenshots of an interactive html files |
 
 Use ``python`` with following `FILENAME` to run the program.
+
+Link to Video Visualization: https://www.youtube.com/watch?v=mM52D2GVNgU
